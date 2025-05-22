@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Respira
 
-**Web:**   https://github.com/lunamorello)
+**Web:**   https://github.com/lunamorello
 
 **Autor:**  Luna Morello)
 
@@ -30,24 +30,17 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 22/05/2025
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/lunamorello
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -80,13 +73,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto tiene como temática principal la infancia desde un punto de vista caracterizado por la nostalgia. Ofrece una experiencia interactiva de introspección y presenta una serie de ilustraciones en blanco y negro que conforman la serie que protagoniza este portafolio. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Puede ser utilizado por cualquier persona de cualquier edad, pero está más orientado a los adultos ya que son aquellos que tienen la infancia más lejana por lo que les será más emotivo recordar. 
 
 
 
@@ -94,37 +87,32 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+-Primero hay un teaser que lleva al menu del proyecto. Ahí tenemos el boton de la música, y los botonbes que nos llevan a las distintas partes. 
+Para las tipografías utilicé la misma para todo el proyecto para mantener la cohesión, y los mismos colores.  
+- El juego es una experiencia interactiva que tiene como objetivo echar la mirada hacia el pasado y completar diez segundos meditativos. Antes de este, hay un album de recuerdos sobre mi vida que muestra como me afectó a mi personalmente la emoción de la nostalgia con las mudanzas que experimenté como contexto y factor decisivo. 
+- El video es una animación hecha con la técnica del Stop Motion, y consiste en el elemento de la espiral moviéndose por las ilustraciones del portafolio. 
+- La única parte que tiene instrucciones es el juego y son bastante sencillas, ya que todas las partes del portafolio pretenden crear un ambiente tranquilo y meditativo.  
+- La música es la misma en todo el proyecto y es relajante. Hay un botón en el menu para que pare y se reanude.
+- El estilo quería que sea lo más minimalista posible, muy orgánico y relajante. Con tonos muy poco saturados de marrón y gris. Para que transmita la mayor paz posible. Elegí elementos que evocan la nostalgia, como las cartas, los papeles y las cosas analógicas en general. 
+  
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Considero que el juego podría estar mejor realizado, o ser más complejo, pero en general creo que funciona todo bastante bien y permite meterse en la experiencia sin ningún problema. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Me pareció bastante complicado al principio ya que es algo totalmente nuevo para mi, pero al final verlo terminado y sentirme satisfecha con mi trabajo me dió motivaciuón para en un futuro volver a utilizar este programa para mis proyectos personales. 
 
 
 # 5 Referencias 
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
@@ -134,7 +122,7 @@ Este  proyecto es interesante porque ...
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
+- Godot Engine 4.4.1
 - 
 
 
