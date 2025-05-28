@@ -22,7 +22,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![logo](logotipo.jpeg)
 
-**Resolución:** 1152x650px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x650px 
 
 **Probado en:** Google Chrome 
 
