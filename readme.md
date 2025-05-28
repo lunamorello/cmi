@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
+![logo](take a break.png)
 
 **Resolución:** 1152x650px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -46,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
-
+![esquema](esquema.jpg)
 
 
 
@@ -127,8 +127,6 @@ Me pareció bastante complicado al principio ya que es algo totalmente nuevo par
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Mayo 2025
