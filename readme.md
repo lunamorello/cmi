@@ -12,7 +12,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://github.com/lunamorello
 
-**Autor:**  Luna Morello)
+**Autor:**  Luna Morello
 
 **Resumen** : Este proyecto tiene como temática la infancia vista a través del filtro de la nostalgia. 
 
