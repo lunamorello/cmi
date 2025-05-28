@@ -18,21 +18,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**   portfolio 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1152x650px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome 
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 79,56 KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 22/05/2025
+**Fecha** : 28/05/2025
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
 - Github:https://github.com/lunamorello
 
@@ -41,14 +41,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-https://raw.githubusercontent.com/lunamorello/repositorio/rama/ruta/al/asset
+![story](story.jpeg)
 
 
 ### 2.2. Esquema de navegación 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
@@ -64,16 +64,16 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Para el juego me inspiró mucho este llamado 'Nothing' de Zitaoye (https://yezi.itch.io/nothing)
+
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto tiene como temática principal la infancia desde un punto de vista caracterizado por la nostalgia. Ofrece una experiencia interactiva de introspección y presenta una serie de ilustraciones en blanco y negro que conforman la serie que protagoniza este portafolio. 
+Este  proyecto tiene como temática principal la infancia desde un punto de vista nostálgico. Ofrece una experiencia interactiva de introspección y presenta una serie de ilustraciones en blanco y negro que conforman la colección que protagoniza este portafolio. Quería crear un ambiente digital interactivo que sirviese como una ventana hacia el pasado de cada uno, que invite a reflexionar y a rememorar todo desde un sentimiento de paz y calma que intenté reflejar con la estética del proyecto y la música. 
 
 
 
@@ -110,15 +110,15 @@ Me pareció bastante complicado al principio ya que es algo totalmente nuevo par
 
 
 # 5 Referencias 
-
-**Artículos y blogs ** 
+- La importancia de recordar: la nostalgia como refugio y motor
+(https://www.abc.es/bienestar/psicologia-sexo/psicologia/importancia-recordar-nostalgia-refugio-motor-20250424162551-nt.html?ref=https%3A%2F%2Fwww.abc.es%2Fbienestar%2Fpsicologia-sexo%2Fpsicologia%2Fimportancia-recordar-nostalgia-refugio-motor-20250424162551-nt.html) 
 
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Es una melodia envolvente, instrumental de carácter relajante.  
+* Imágenes:  Las imágenes son ilustraciones mías, fotografías de mi infancia y fotografías de Pinterest. 
+* Tipografía: La tipografía utilizada se llama Kenya. 
 
 **Herramientas utilizadas**
 
