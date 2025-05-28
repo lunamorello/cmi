@@ -86,8 +86,8 @@ Este  proyecto tiene como temática principal la infancia desde un punto de vist
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
--Primero hay un teaser que lleva al menu del proyecto. Ahí tenemos el boton de la música, y los botonbes que nos llevan a las distintas partes. 
-Para las tipografías utilicé la misma para todo el proyecto para mantener la cohesión, y los mismos colores.  
+- Primero hay un teaser que lleva al menu del proyecto. Ahí tenemos el boton de la música, y los botones que nos llevan a las distintas partes. 
+- Para las tipografías utilicé la misma para todo el proyecto para mantener la cohesión, y los mismos colores.  
 - El juego es una experiencia interactiva que tiene como objetivo echar la mirada hacia el pasado y completar diez segundos meditativos. Antes de este, hay un album de recuerdos sobre mi vida que muestra como me afectó a mi personalmente la emoción de la nostalgia con las mudanzas que experimenté como contexto y factor decisivo. 
 - El video es una animación hecha con la técnica del Stop Motion, y consiste en el elemento de la espiral moviéndose por las ilustraciones del portafolio. 
 - La única parte que tiene instrucciones es el juego y son bastante sencillas, ya que todas las partes del portafolio pretenden crear un ambiente tranquilo y meditativo.  
