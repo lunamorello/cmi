@@ -58,7 +58,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
@@ -73,7 +72,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto tiene como temática principal la infancia desde un punto de vista nostálgico. Ofrece una experiencia interactiva de introspección y presenta una serie de ilustraciones en blanco y negro que conforman la colección que protagoniza este portafolio. Quería crear un ambiente digital interactivo que sirviese como una ventana hacia el pasado de cada uno, que invite a reflexionar y a rememorar todo desde un sentimiento de paz y calma que intenté reflejar con la estética del proyecto y la música. 
+Este  proyecto tiene como temática principal la infancia desde un punto de vista nostálgico. Ofrece una experiencia interactiva de introspección y presenta una serie de ilustraciones en blanco y negro que conforman la colección que protagoniza este portafolio. Quería crear un ambiente digital interactivo que sirviera como una ventana hacia el pasado de cada uno, que invite a reflexionar y a rememorar todo desde un sentimiento de paz y calma que intenté reflejar con la estética del proyecto y la música. 
 
 
 
