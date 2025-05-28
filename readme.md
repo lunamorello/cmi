@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
+https://raw.githubusercontent.com/lunamorello/repositorio/rama/ruta/al/asset
 
 
 ### 2.2. Esquema de navegación 
